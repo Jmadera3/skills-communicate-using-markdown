@@ -8,3 +8,7 @@
 ``` java
 String introName = "Hello, World!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Otuline my Portfolio
+- [ ] Introduce myself to the world
